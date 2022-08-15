@@ -7,8 +7,8 @@ Hello guys,
 I am starting my 100 Days of Code and this would be my journey detailing the experience.    
 
 
-<b>Day 0: Aug 14, 2022</b>   
+<b>Day 1: Aug 14, 2022</b>   
 Started Learning JavaScript at Codecademy. Covered Data Types, Comments and Arithmetic Operators. Thrilled to start coding in JS. 
 
-<b>Day 1: Aug 15, 2022</b>   
+<b>Day 2: Aug 15, 2022</b>   
 Learnt about variables, conditional statements(if,else,switch) and created a simple program 'Magic Eight Ball' in JS that generates a random answer based on a question.
