@@ -12,3 +12,9 @@ Started Learning JavaScript at Codecademy. Covered Data Types, Comments and Arit
 
 <b>Day 2: Aug 15, 2022</b>   
 Learnt about variables, conditional statements(if,else,switch) and created a simple program 'Magic Eight Ball' in JS that generates a random answer based on a question.
+
+<b>Day 3: Aug 16, 2022</b>   
+JavaScript Functions
+
+<b>Day 4: Aug 17, 2022</b>   
+Scope- Global and Block , Arrays and its methods
