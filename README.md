@@ -19,11 +19,11 @@ JavaScript Functions and various types of Functions
 <b>Day 4: Aug 17, 2022</b>   
 Scope- Global and Block , Arrays and its methods
 
-<b>Day 5: Aug 18, 2022</b>
+<b>Day 5: Aug 18, 2022</b>  
 Started with basics of HTML - HTML tags, Images and Links (FreeCodeCamp's Responsive Web Design Certification Program)
 
-<b>Day 6: Aug 19, 2022</b>
+<b>Day 6: Aug 19, 2022</b>  
 HTML continued.. Learnt about lists, Forms, Buttons and Checkboxes
 
-<b>Day 7: Aug 20, 2022</b>
+<b>Day 7: Aug 20, 2022</b>  
 HTML continued.. Finished with the <em>CAT PHOTO WEBPAGE</em>
