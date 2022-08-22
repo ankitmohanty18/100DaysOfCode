@@ -27,3 +27,6 @@ HTML continued.. Learnt about lists, Forms, Buttons and Checkboxes
 
 <b>Day 7: Aug 20, 2022</b>  
 HTML continued.. Finished with the <em>CAT PHOTO WEBPAGE</em>
+
+<b>Day 8: Aug 21, 2022</b>
+Started CSS.. Learn about common properties like text-align, background-color, width, height,etc and learning by doing assignment on FreeCodeCamp.
