@@ -30,3 +30,8 @@ HTML continued.. Finished with the <em>CAT PHOTO WEBPAGE</em>
 
 <b>Day 8: Aug 21, 2022</b>
 Started CSS.. Learn about common properties like text-align, background-color, width, height,etc and learning by doing assignment on FreeCodeCamp.
+
+<b>Day 9: Aug 22, 2022</b>
+Tried out CSS nesting and Experimnenting with various styles, formatting etc by doing live project on FreeCodeCamp.
+
+<b>Day 10: Aug 23,2022</b>
