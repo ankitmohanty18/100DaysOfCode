@@ -6,6 +6,7 @@ My Web Development Journey
 Hello guys,   
 I am starting my 100 Days of Code and this would be my journey detailing the experience.    
 
+<body>
 
 <b>Day 1: Aug 14, 2022</b>   
 Started Learning JavaScript at Codecademy. Covered Data Types, Comments and Arithmetic Operators. Thrilled to start coding in JS. 
@@ -31,7 +32,11 @@ HTML continued.. Finished with the <em>CAT PHOTO WEBPAGE</em>
 <b>Day 8: Aug 21, 2022</b>
 Started CSS.. Learn about common properties like text-align, background-color, width, height,etc and learning by doing assignment on FreeCodeCamp.
 
-<b>Day 9: Aug 22, 2022</b>
+<b>Day 9: Aug 22, 2022</b>  
 Tried out CSS nesting and Experimnenting with various styles, formatting etc by doing live project on FreeCodeCamp.
 
-<b>Day 10: Aug 23,2022</b>
+<b>Day 10: Aug 23,2022</b>  
+
+
+
+</body>
