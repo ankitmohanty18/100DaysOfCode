@@ -37,8 +37,15 @@ Tried out CSS nesting and Experimnenting with various styles, formatting etc by 
 
 <b>Day 10: Aug 23,2022</b>  
 Built a Cafe webpage using CSS on FreeCodeCamp. Learnt how to adjust the alignment, fonts, spacing, padding,color and margin.   
+![Day 10 Cafe Menu](https://user-images.githubusercontent.com/52693736/186496103-f13bc308-aeae-4973-b598-05e2eee1460d.JPG)  
 
 <b>Day 11: Aug 24,2022</b>  
 Watched a few tutorials on building interactive websites by combining HTML, CSS and JS  
   
+<b>Day 12: Aug 25,2022</b>  
+CSS Project : Color Markers on FreeCodeCamp 
+![Day 11 CSS Color Markers](https://user-images.githubusercontent.com/52693736/186496078-a4999744-1e47-45fb-9791-454fa8daebbe.JPG)  
+
+
+
 </body>
