@@ -36,7 +36,9 @@ Started CSS.. Learn about common properties like text-align, background-color, w
 Tried out CSS nesting and Experimnenting with various styles, formatting etc by doing live project on FreeCodeCamp.
 
 <b>Day 10: Aug 23,2022</b>  
-Built a Cafe webpage using CSS on FreeCodeCamp. Learnt how to adjust the alignment, fonts, spacing, padding,color and margin. 
+Built a Cafe webpage using CSS on FreeCodeCamp. Learnt how to adjust the alignment, fonts, spacing, padding,color and margin.   
 
-
+<b>Day 11: Aug 24,2022</b>  
+Watched a few tutorials on building interactive websites by combining HTML, CSS and JS  
+  
 </body>
