@@ -51,7 +51,7 @@ CSS Project : Color Markers on FreeCodeCamp
  
  <li><b>Day 13: Aug 26,2022</b>  
 Project: Registration Form , Started on FreeCodeCamp 
-![Day 13 ss](https://user-images.githubusercontent.com/52693736/186950312-303bdad0-40b5-480d-9637-732a372613be.JPG)
+ ![Day 13 ss](https://user-images.githubusercontent.com/52693736/186950312-303bdad0-40b5-480d-9637-732a372613be.JPG)
 
 
 
