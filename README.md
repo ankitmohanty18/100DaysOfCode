@@ -47,7 +47,11 @@ Watched a few tutorials on building interactive websites by combining HTML, CSS 
 <li><b>Day 12: Aug 25,2022</b>  
 CSS Project : Color Markers on FreeCodeCamp 
   
- ![Day 11 CSS Color Markers](https://user-images.githubusercontent.com/52693736/186496078-a4999744-1e47-45fb-9791-454fa8daebbe.JPG)  
+ ![Day 11 CSS Color Markers](https://user-images.githubusercontent.com/52693736/186496078-a4999744-1e47-45fb-9791-454fa8daebbe.JPG)   
+ 
+ <li><b>Day 13: Aug 26,2022</b>  
+Project: Registration Form , Started on FreeCodeCamp 
+![Day 13 ss](https://user-images.githubusercontent.com/52693736/186950312-303bdad0-40b5-480d-9637-732a372613be.JPG)
 
 
 
