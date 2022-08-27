@@ -2,8 +2,8 @@
 
 
 ![image](https://user-images.githubusercontent.com/52693736/184680745-3add45be-dfe4-49a8-902d-dc23c3c68a47.png) 
-My Web Development Journey  
-Hello guys,   
+<b>My Web Development Journey</b>  
+Hey all,   
 I am starting my 100 Days of Code and this would be my journey detailing the experience.    
 
 <body>
@@ -35,7 +35,7 @@ HTML continued.. Learnt about lists, Forms, Buttons and Checkboxes
 
 <li><b>Day 7: Aug 20, 2022</b>  
  
-HTML continued.. Finished with the <em>CAT PHOTO WEBPAGE</em>
+✅ Completed the CAT PHOTO WEBPAGE
 
 <li><b>Day 8: Aug 21, 2022</b>  
  
@@ -57,7 +57,7 @@ Watched a few tutorials on building interactive websites by combining HTML, CSS 
   
 <li><b>Day 12: Aug 25,2022</b>  
  
-CSS Project : Color Markers on FreeCodeCamp 
+✅ Completed CSS Project : Color Markers on FreeCodeCamp 
   
  ![Day 11 CSS Color Markers](https://user-images.githubusercontent.com/52693736/186496078-a4999744-1e47-45fb-9791-454fa8daebbe.JPG)   
  
@@ -67,6 +67,12 @@ Project: Registration Form , Started on FreeCodeCamp
   
    
   ![Day 13 ss](https://user-images.githubusercontent.com/52693736/186950312-303bdad0-40b5-480d-9637-732a372613be.JPG)
+
+<li><b>Day 14: Aug 27,2022</b>   
+✅ Project: Registration Form Completed #FreeCodeCamp    
+
+
+  ![day 14 Registration Form](https://user-images.githubusercontent.com/52693736/187039180-9b62a4c0-d403-47e4-9054-a5bedc7a5fe7.JPG)  
 
 
 
