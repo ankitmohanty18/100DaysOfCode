@@ -75,10 +75,15 @@ Project: Registration Form , Started on FreeCodeCamp
   ![day 14 Registration Form](https://user-images.githubusercontent.com/52693736/187039180-9b62a4c0-d403-47e4-9054-a5bedc7a5fe7.JPG)  
 
 
-<li><b>Day 15: Aug 28,2022</b>   
+<li><b>Day 15: Aug 28,2022</b>    
+
 ✅ Project: Survey Form Started #FreeCodeCamp  
 
 
+<li><b>Day 16: Aug 29,2022</b>     
+
+✅ Learnt more about CSS Flexbox, Viewport and Responsive Design on Web Dev Simplified (Youtube)   
+✅ Project: Survey Form Continued... #FreeCodeCamp   
 
 
 
