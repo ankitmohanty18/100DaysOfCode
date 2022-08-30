@@ -85,7 +85,8 @@ Project: Registration Form , Started on FreeCodeCamp
 ✅ Learnt more about CSS Flexbox, Viewport and Responsive Design on Web Dev Simplified (Youtube)   
 ✅ Project: Survey Form Continued... #FreeCodeCamp   
 
-
-
+ <li><b>Day 17: Aug 30,2022</b>   
+ 
+Experimentation with CSS styles and formatting in VS Code 
 
 </body>
