@@ -89,4 +89,12 @@ Project: Registration Form , Started on FreeCodeCamp
  
 Experimentation with CSS styles and formatting in VS Code 
 
+
+ <li><b>Day 18: Aug 31,2022</b>   
+ 
+ ✅ Project: Rothko Painting @FreeCodeCamp  
+ ✅ Learnt CSS Properties such as Transform, Box Shadow, Filter, Border Radius and Margin.  
+ 
+![Day 18 Rothko painting](https://user-images.githubusercontent.com/52693736/187740168-d99a21ff-07c9-47e4-b16b-4f8617c775da.JPG)
+
 </body>
