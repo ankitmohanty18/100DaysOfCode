@@ -95,6 +95,20 @@ Experimentation with CSS styles and formatting in VS Code
  ✅ Project: Rothko Painting @FreeCodeCamp  
  ✅ Learnt CSS Properties such as Transform, Box Shadow, Filter, Border Radius and Margin.  
  
-![Day 18 Rothko painting](https://user-images.githubusercontent.com/52693736/187740168-d99a21ff-07c9-47e4-b16b-4f8617c775da.JPG)
+![Day 18 Rothko painting](https://user-images.githubusercontent.com/52693736/187740168-d99a21ff-07c9-47e4-b16b-4f8617c775da.JPG)  
+
+
+
+ <li><b>Day 19: Sep 1,2022</b>    
+ 
+ ✅ Project: CSS Flexbox Photo Gallery @FreeCodeCamp   
+ 
+ 
+![Day 19 CSS Flexbox](https://user-images.githubusercontent.com/52693736/187971955-07093d43-4f54-4132-b916-4e46f3cada63.JPG)
+
+
+
+
+
 
 </body>
