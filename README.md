@@ -107,6 +107,14 @@ Experimentation with CSS styles and formatting in VS Code
 ![Day 19 CSS Flexbox](https://user-images.githubusercontent.com/52693736/187971955-07093d43-4f54-4132-b916-4e46f3cada63.JPG)
 
 
+ 
+ <li><b>Day 20: Sep 2,2022</b>    
+ 
+ ✅ Project: Building a Nutrition Label by learning Typography @FreeCodeCamp   
+ 
+  ![Day 20 Nutrition Label](https://user-images.githubusercontent.com/52693736/188208314-d1ade0d9-3609-47ba-ae5a-6547fa253223.JPG)
+
+ 
 
 
 
