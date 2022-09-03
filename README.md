@@ -115,7 +115,8 @@ Experimentation with CSS styles and formatting in VS Code
   ![Day 20 Nutrition Label](https://user-images.githubusercontent.com/52693736/188208314-d1ade0d9-3609-47ba-ae5a-6547fa253223.JPG)
 
   
- <li><b>Day 21: Sep 3,2022</b>  
+ <li><b>Day 21: Sep 3,2022</b>    
+  
 ✅ Learn about CSS Specificity , Box Model, FLoat and Clear Property
 
 
