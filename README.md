@@ -47,7 +47,7 @@ Tried out CSS nesting and Experimnenting with various styles, formatting etc by 
 
 <li><b>Day 10: Aug 23,2022</b>  
  
-Built a Cafe webpage using CSS on FreeCodeCamp. Learnt how to adjust the alignment, fonts, spacing, padding,color and margin.   
+✅ Built a Cafe webpage using CSS on FreeCodeCamp. Learnt how to adjust the alignment, fonts, spacing, padding,color and margin.   
 
   ![Day 10 Cafe Menu](https://user-images.githubusercontent.com/52693736/186496103-f13bc308-aeae-4973-b598-05e2eee1460d.JPG)  
 
@@ -114,9 +114,9 @@ Experimentation with CSS styles and formatting in VS Code
  
   ![Day 20 Nutrition Label](https://user-images.githubusercontent.com/52693736/188208314-d1ade0d9-3609-47ba-ae5a-6547fa253223.JPG)
 
- 
-
-
+  
+ <li><b>Day 21: Sep 3,2022</b>  
+✅ Learn about CSS Specificity , Box Model, FLoat and Clear Property
 
 
 </body>
