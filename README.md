@@ -124,3 +124,9 @@ Experimentation with CSS styles and formatting in VS Code
   
    
 🔄 Revising the concepts learnt till now  
+
+✅ Started JavaScript Practice on FreeCodeCamp   
+
+ 
+![Day 22](https://user-images.githubusercontent.com/52693736/188325804-8784cf9c-7fe9-49d0-8210-f3245fefd85c.png) 
+
