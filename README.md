@@ -120,4 +120,7 @@ Experimentation with CSS styles and formatting in VS Code
 ✅ Learn about CSS Specificity , Box Model, FLoat and Clear Property
 
 
-</body>
+  <li><b>Day 22: Sep 4,2022</b>      
+  
+   
+🔄 Revising the concepts learnt till now  
