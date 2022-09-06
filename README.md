@@ -130,3 +130,18 @@ Experimentation with CSS styles and formatting in VS Code
  
 ![Day 22](https://user-images.githubusercontent.com/52693736/188325804-8784cf9c-7fe9-49d0-8210-f3245fefd85c.png) 
 
+
+   
+   
+   <li><b>Day 23: Sep 5,2022</b>      
+  
+
+✅ JavaScript Exercises on FreeCodeCamp  (38-65)
+
+
+
+ 
+   <li><b>Day 24: Sep 6,2022</b>       
+  
+
+✅ JavaScript Exercises on FreeCodeCamp (66-94)
