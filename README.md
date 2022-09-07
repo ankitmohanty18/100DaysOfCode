@@ -145,3 +145,17 @@ Experimentation with CSS styles and formatting in VS Code
   
 
 ✅ JavaScript Exercises on FreeCodeCamp (66-94)
+
+
+
+ <li><b>Day 25: Sep 7,2022</b>       
+  
+
+✅ Completed Project on Accessbility by building a Quiz Page
+
+![Day 25](https://user-images.githubusercontent.com/52693736/188931966-d7e59b23-ee5e-42c2-ad4e-ab990e9b1a75.JPG)
+
+
+
+
+</body>
