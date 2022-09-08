@@ -156,6 +156,13 @@ Experimentation with CSS styles and formatting in VS Code
 ![Day 25](https://user-images.githubusercontent.com/52693736/188931966-d7e59b23-ee5e-42c2-ad4e-ab990e9b1a75.JPG)
 
 
+<li><b>Day 26: Sep 8,2022</b>       
+  
+
+✅ Completed a Tribute Page using HTML and CSS only   
+ 
+![FCC Tribute](https://user-images.githubusercontent.com/52693736/189184243-492ca97b-ecd0-4296-84e5-49a7a77aec7a.jpg)
+
 
 
 </body>
