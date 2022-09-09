@@ -159,9 +159,20 @@ Experimentation with CSS styles and formatting in VS Code
 <li><b>Day 26: Sep 8,2022</b>       
   
 
-✅ Completed a Tribute Page using HTML and CSS only   
+✅ Completed a Tribute Page using HTML and CSS only on FreeCodeCamp   
  
 ![FCC Tribute](https://user-images.githubusercontent.com/52693736/189184243-492ca97b-ecd0-4296-84e5-49a7a77aec7a.jpg)
+
+
+
+ 
+<li><b>Day 27: Sep 9,2022</b>       
+  
+
+✅ Completed the Project: Building a Balance Sheet using Pseudo Selectors  
+✅ Learnt about first-of-type, last-of-type and nth-of-type() Pseudo Selectors  
+
+![Day 27](https://user-images.githubusercontent.com/52693736/189399333-280b60be-2d4d-49b8-aabf-9807c1c8bebc.JPG)
 
 
 
