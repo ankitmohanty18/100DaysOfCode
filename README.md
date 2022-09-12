@@ -191,6 +191,12 @@ Experimentation with CSS styles and formatting in VS Code
 ![bootstrap day 29](https://user-images.githubusercontent.com/52693736/189540041-9d690fc2-d10b-44e2-9c94-af8832dbc098.JPG)
 
 
+<li><b>Day 30: Sep 12,2022</b>       
+  
+
+✅ Started learning React on FreeCodeCamp 
+
+
 
 
 </body>
