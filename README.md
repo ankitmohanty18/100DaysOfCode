@@ -1,6 +1,3 @@
-# 100DaysOfCode
-
-
 ![image](https://user-images.githubusercontent.com/52693736/184680745-3add45be-dfe4-49a8-902d-dc23c3c68a47.png) 
 <b>My Web Development Journey</b>  
 Hey all,   
