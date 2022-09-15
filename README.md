@@ -204,6 +204,10 @@ Experimentation with CSS styles and formatting in VS Code
 
 ✅ Learning React on FreeCodeCamp 
 
+<li><b>Day 33: Sep 15,2022</b>       
+  
+
+✅ Learning React on FreeCodeCamp 
 
 
 
