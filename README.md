@@ -220,6 +220,18 @@ Experimentation with CSS styles and formatting in VS Code
 ✅ Learning React on FreeCodeCamp and Youtube
 ✅ Wrote first code on React
 
+<li><b>Day 36: Sep 18,2022</b>       
+  
+
+✅ Learning React on FreeCodeCamp and Youtube  
+✅ Built a basic counter using State in React 
+
+
+https://user-images.githubusercontent.com/52693736/190919833-e5ba03f2-ee27-4f45-bf23-667dfe2bfe28.mp4   
+
+
+![Day 35 React Counter](https://user-images.githubusercontent.com/52693736/190919848-284eb562-0030-40ce-b8c3-fb3ddf7a3772.JPG)
+
 
 
 </body>
