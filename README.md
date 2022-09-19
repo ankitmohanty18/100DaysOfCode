@@ -231,6 +231,15 @@ https://user-images.githubusercontent.com/52693736/190919833-e5ba03f2-ee27-4f45-
 
 
 ![Day 35 React Counter](https://user-images.githubusercontent.com/52693736/190919848-284eb562-0030-40ce-b8c3-fb3ddf7a3772.JPG)
+  
+  
+
+<li><b>Day 37: Sep 19,2022</b>       
+  
+✅ Revising CSS Concepts
+✅ Completed Intermediate CSS Project (Picasso Painting) on FreeCodeCamp
+ 
+![Day 37 Picasso](https://user-images.githubusercontent.com/52693736/191070768-a7b2a4a2-e857-4585-a0d4-2f124d74a37a.JPG)
 
 
 
