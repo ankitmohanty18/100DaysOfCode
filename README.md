@@ -236,10 +236,18 @@ https://user-images.githubusercontent.com/52693736/190919833-e5ba03f2-ee27-4f45-
 
 <li><b>Day 37: Sep 19,2022</b>       
   
-✅ Revising CSS Concepts
+✅ Revising CSS Concepts   
 ✅ Completed Intermediate CSS Project (Picasso Painting) on FreeCodeCamp
  
 ![Day 37 Picasso](https://user-images.githubusercontent.com/52693736/191070768-a7b2a4a2-e857-4585-a0d4-2f124d74a37a.JPG)
+
+
+<li><b>Day 38: Sep 20,2022</b>       
+  
+✅ Completed Responsive Web Design Project by building a Piano on FreeCodeCamp  
+
+![Day 38 piano](https://user-images.githubusercontent.com/52693736/191316176-0bd983d9-7b70-422d-841b-7f3a5ff7cf41.JPG)
+
 
 
 
