@@ -245,6 +245,7 @@ https://user-images.githubusercontent.com/52693736/190919833-e5ba03f2-ee27-4f45-
 <li><b>Day 38: Sep 20,2022</b>       
   
 ✅ Completed Responsive Web Design Project by building a Piano on FreeCodeCamp  
+✅ Learnt about Media Queries
 
 ![Day 38 piano](https://user-images.githubusercontent.com/52693736/191316176-0bd983d9-7b70-422d-841b-7f3a5ff7cf41.JPG)
 
