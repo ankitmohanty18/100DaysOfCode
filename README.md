@@ -250,6 +250,10 @@ https://user-images.githubusercontent.com/52693736/190919833-e5ba03f2-ee27-4f45-
 ![Day 38 piano](https://user-images.githubusercontent.com/52693736/191316176-0bd983d9-7b70-422d-841b-7f3a5ff7cf41.JPG)
 
 
+<li><b>Day 39: Sep 21,2022</b>       
+  
+✅ Started building a technical documentation page on FreeCodeCamp 
+
 
 
 </body>
