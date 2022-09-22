@@ -254,6 +254,8 @@ https://user-images.githubusercontent.com/52693736/190919833-e5ba03f2-ee27-4f45-
   
 ✅ Started building a technical documentation page on FreeCodeCamp 
 
-
+<li><b>Day 40: Sep 22,2022</b>       
+  
+✅ Learning React on FreeCodeCamp (19/47)
 
 </body>
