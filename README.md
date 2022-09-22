@@ -256,6 +256,6 @@ https://user-images.githubusercontent.com/52693736/190919833-e5ba03f2-ee27-4f45-
 
 <li><b>Day 40: Sep 22,2022</b>       
   
-✅ Learning React on FreeCodeCamp (19/47)
+✅  Learnt about Proptypes , Default Props and Overriding Default Props in React on FreeCodeCamp
 
 </body>
