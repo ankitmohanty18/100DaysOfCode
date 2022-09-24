@@ -263,6 +263,15 @@ https://user-images.githubusercontent.com/52693736/190919833-e5ba03f2-ee27-4f45-
 ✅  Learnt about Types of State in React on FreeCodeCamp   
 
  ![Day 41](https://user-images.githubusercontent.com/52693736/192012762-bec78f8c-e527-40e3-8a6b-3325bad3df56.JPG)
+ 
+ 
+ 
+  
+  
+ <li><b>Day 42: Sep 24,2022</b>       
+  
+✅  React continued   
+
 
 
 
