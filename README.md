@@ -275,7 +275,7 @@ https://user-images.githubusercontent.com/52693736/190919833-e5ba03f2-ee27-4f45-
 
  <li><b>Day 43: Sep 25,2022</b>        
   
-✅  React continued.. Experimenting with various components and css styles
+Building a responsive website for dummy furniture company using React 🔥
 
 
 
