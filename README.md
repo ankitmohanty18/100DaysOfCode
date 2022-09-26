@@ -278,6 +278,13 @@ https://user-images.githubusercontent.com/52693736/190919833-e5ba03f2-ee27-4f45-
 Building a responsive website for dummy furniture company using React 🔥
 
 
+https://user-images.githubusercontent.com/52693736/192336337-5efb4bb6-f9d2-4a1b-b38d-0e7f1b5631c0.mp4
+
+
+
+<li><b>Day 44: Sep 26,2022</b>        
+
+Learning React continued.. 
 
 
 </body>
