@@ -284,7 +284,17 @@ https://user-images.githubusercontent.com/52693736/192336337-5efb4bb6-f9d2-4a1b-
 
 <li><b>Day 44: Sep 26,2022</b>        
 
-Learning React continued.. 
+Learning React continued..    
+
+
+
+
+<li><b>Day 45: Sep 27,2022</b>        
+
+✅ Started CSS Project on FreeCodeCamp to Learn about variables in CSS by building a city skyline  
+
+![Day 45](https://user-images.githubusercontent.com/52693736/192602884-70896147-e218-4b99-90a7-4e92fad96744.JPG)
+
 
 
 </body>
