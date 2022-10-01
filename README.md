@@ -316,6 +316,13 @@ Reading React Documentation
 
 
 
+<li><b>Day 49: Oct 1,2022</b>  
+
+Not much coding. Learning to read documentation and understand the process of contributing to open source.
+Exploring the https://goodfirstissue.dev/ ( Amazing resource for beginners)
+
+
+
 
 
 
