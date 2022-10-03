@@ -322,7 +322,15 @@ Not much coding. Learning to read documentation and understand the process of co
 Exploring the https://goodfirstissue.dev/ ( Amazing resource for beginners)
 
 
+<li><b>Day 50: Oct 2,2022</b>  
+Working on Building a Ferris Wheel and Learning CSS Animation on FreeCodeCamp
 
+
+
+<li><b>Day 51: Oct 3,2022</b>  
+✅ Completed building a Ferris Wheel on FreeCodeCamp
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/52693736/193639443-5ce9ac5e-279f-4e58-9684-3d934bc7f8d9.gif)
 
 
 
