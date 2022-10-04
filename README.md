@@ -333,5 +333,17 @@ Working on Building a Ferris Wheel and Learning CSS Animation on FreeCodeCamp
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/52693736/193639443-5ce9ac5e-279f-4e58-9684-3d934bc7f8d9.gif)
 
 
+<li><b>Day 52: Oct 4,2022</b>   
+
+✅ Completed building a City Skyline on FreeCodeCamp 
+✅ Learnt about CSS Variables and building responsive pages using Media queries  
+
+ 
+
+https://user-images.githubusercontent.com/52693736/193890030-58af37b7-77ed-463c-bb91-c1864e5c34c2.mp4
+
+
+
+
 
 </body>
