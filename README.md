@@ -2,7 +2,7 @@
 <b>My Web Development Journey</b>  
 Hey all,   
 I am starting my 100 Days of Code and this would be my journey detailing the experience.    
-T
+
 <body>
 <ul>
  
@@ -343,7 +343,14 @@ Working on Building a Ferris Wheel and Learning CSS Animation on FreeCodeCamp
 https://user-images.githubusercontent.com/52693736/193890030-58af37b7-77ed-463c-bb91-c1864e5c34c2.mp4
 
 
+  
+  
+<b>Break : Two Weeks</b>
 
+
+<li><b>Day 53: Oct 18,2022</b>   
+
+✅ Completed
 
 
 </body>
