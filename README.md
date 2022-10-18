@@ -344,9 +344,13 @@ https://user-images.githubusercontent.com/52693736/193890030-58af37b7-77ed-463c-
 
 
   
-  
-<b>Break : Two Weeks</b>
-
+  <hr>
+ <br><br><br> 
+<b>Break : Two Weeks</b>  
+ <br>
+ <br>
+ <br>
+<hr>
 
 <li><b>Day 53: Oct 18,2022</b>   
 
