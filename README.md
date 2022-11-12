@@ -346,15 +346,15 @@ https://user-images.githubusercontent.com/52693736/193890030-58af37b7-77ed-463c-
   
   <hr>
  <br><br><br> 
-<b>Break : Two Weeks</b>  
+<b>Break : 1 month</b>  
  <br>
  <br>
  <br>
 <hr>
 
-<li><b>Day 53: Oct 18,2022</b>   
+<li><b>Day 53: Nov 12,2022</b>   
 
-✅ Completed
+✅ Started with Meta React Basics Course on Coursera
 
 
 </body>
