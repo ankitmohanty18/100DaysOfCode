@@ -357,4 +357,10 @@ https://user-images.githubusercontent.com/52693736/193890030-58af37b7-77ed-463c-
 ✅ Started with Meta React Basics Course on Coursera
 
 
+
+<li><b>Day 54: Nov 13,2022</b>   
+
+✅ Learnt about JSX and Component Styling
+
+
 </body>
