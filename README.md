@@ -363,4 +363,11 @@ https://user-images.githubusercontent.com/52693736/193890030-58af37b7-77ed-463c-
 ✅ Learnt about JSX and Component Styling
 
 
+<li><b>Day 55: Nov 14,2022</b> 
+ 
+Learnt about Event Handling and the Syntax for Handlers in ReactJS. 
+
+Got to know how each website uses various handlers to call its own functions and provide an interactive experience to the user
+
+
 </body>
