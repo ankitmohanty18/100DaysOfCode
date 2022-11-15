@@ -370,4 +370,11 @@ Learnt about Event Handling and the Syntax for Handlers in ReactJS.
 Got to know how each website uses various handlers to call its own functions and provide an interactive experience to the user
 
 
+<li><b>Day 56: Nov 15,2022</b> 
+ 
+Learnt about Data Flow in Components and Hooks in React 
+
+
+
+
 </body>
