@@ -372,9 +372,12 @@ Got to know how each website uses various handlers to call its own functions and
 
 <li><b>Day 56: Nov 15,2022</b> 
  
-Learnt about Data Flow in Components and Hooks in React 
+Learnt about Data Flow in Components and Hooks in React  
 
 
+<li><b>Day 57: Nov 16,2022</b> 
+
+React Hooks - learning and experimenting with useState and useRef hooks
 
 
 </body>
