@@ -384,6 +384,11 @@ React Hooks - learning and experimenting with useState and useRef hooks
 <li><b>Day 58: Nov 17,2022</b>  
  
  Learnt about Prop Drilling and how to useContext Hook in ReactJS. 
+ 
+ 
+ <li><b>Day 59: Nov 18,2022</b>  
+ 
+ Reading the React Documentation on State to improve understanding of useState Hooks
 
 
 </body>
