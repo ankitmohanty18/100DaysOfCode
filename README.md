@@ -389,6 +389,12 @@ React Hooks - learning and experimenting with useState and useRef hooks
  <li><b>Day 59: Nov 18,2022</b>  
  
  Reading the React Documentation on State to improve understanding of useState Hooks
+ 
+ 
+ 
+ <li><b>Day 60: Nov 19,2022</b>  
+ 
+ Learnt about the basic types of navigation on websites and how the navigation process works in React 
 
 
 </body>
