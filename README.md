@@ -395,6 +395,12 @@ React Hooks - learning and experimenting with useState and useRef hooks
  <li><b>Day 60: Nov 19,2022</b>  
  
  Learnt about the basic types of navigation on websites and how the navigation process works in React 
+ 
+ 
+ 
+ <li><b>Day 61: Nov 20,2022</b>  
+ 
+ Installed React Router and learnt to use it to create navbar to replicate the functionalities of regular HTML  
 
 
 </body>
