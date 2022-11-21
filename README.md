@@ -403,4 +403,14 @@ React Hooks - learning and experimenting with useState and useRef hooks
  Installed React Router and learnt to use it to create navbar to replicate the functionalities of regular HTML  
 
 
+<li><b>Day 62: Nov 21,2022</b>  
+
+ Learnt about Conditional Rendering and setting it up with ternary operators
+
+
+
+
+
+
+
 </body>
