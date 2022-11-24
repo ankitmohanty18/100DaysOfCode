@@ -418,7 +418,12 @@ React Hooks - learning and experimenting with useState and useRef hooks
 <li><b>Day 64: Nov 23,2022</b>  
 
  Learnt about Single View Conditional Updates in React  
+ 
+ 
 
+<li><b>Day 65: Nov 24,2022</b>  
+
+ Started learning about Assets in React 
 
 
 
