@@ -432,7 +432,7 @@ Bundling Assets in React
 
 <li><b>Day 67: Nov 26,2022</b>  
 
-Working on my personal portfolio
+Started working on personal portfolio website by going through multiple inspiration projects and deriving useful insights from Youtube
 
 
 
