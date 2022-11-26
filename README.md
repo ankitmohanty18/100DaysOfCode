@@ -427,7 +427,12 @@ React Hooks - learning and experimenting with useState and useRef hooks
 
 <li><b>Day 66: Nov 25,2022</b>  
 
- Started learning about Assets in React 
+Bundling Assets in React 
+
+
+<li><b>Day 67: Nov 26,2022</b>  
+
+Working on my personal portfolio
 
 
 
