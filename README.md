@@ -436,5 +436,13 @@ Started working on personal portfolio website by going through multiple inspirat
 
 
 
+<li><b>Day 68: Nov 27,2022</b>  
+
+Completed React Basics Course on Coursera by building a calculator app as a final project  
+
+
+![Screenshot 2022-11-27 233211](https://user-images.githubusercontent.com/52693736/204152314-75a353c8-4d6f-43ec-b191-126e7bc99024.png)
+
+
 
 </body>
