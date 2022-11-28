@@ -445,4 +445,10 @@ Completed React Basics Course on Coursera by building a calculator app as a fina
 
 
 
+
+<li><b>Day 69: Nov 28,2022</b>  
+
+Working on my personal portfolio website
+
+
 </body>
