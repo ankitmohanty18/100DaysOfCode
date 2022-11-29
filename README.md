@@ -451,4 +451,12 @@ Completed React Basics Course on Coursera by building a calculator app as a fina
 Working on my personal portfolio website
 
 
+
+<li><b>Day 70: Nov 29,2022</b>  
+
+ 
+✅ Created a Digital Clock webpage using Javascript and posted on GitHub
+🔄 Working on my personal portfolio website
+
+
 </body>
