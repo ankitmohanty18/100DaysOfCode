@@ -460,4 +460,11 @@ Working on my personal portfolio website
 🔄 Working on my personal portfolio website
 
 
+ 
+<li><b>Day 71: Nov 30,2022</b>  
+
+Not much coding today. Going through css-tricks.com and reading articles on web development, particularly CSS. 
+
+
+
 </body>
