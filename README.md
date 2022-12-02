@@ -465,6 +465,16 @@ Working on my personal portfolio website
 
 Not much coding today. Going through css-tricks.com and reading articles on web development, particularly CSS. 
 
+<li><b>Day 72: Dec 1,2022</b>  
+
+Started working on a project : Spotify Clone using only HTML CSS JS
+
+<li><b>Day 73: Dec 2, 2022</b>  
+ 
+Spotify clone continued..
+
+
+
 
 
 </body>
