@@ -474,6 +474,9 @@ Started working on a project : Spotify Clone using only HTML CSS JS
 Spotify clone continued..
 
 
+<li><b>Day 74: Dec 3, 2022</b>  
+ 
+Spotify clone continued..
 
 
 
