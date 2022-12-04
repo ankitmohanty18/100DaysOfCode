@@ -478,6 +478,10 @@ Spotify clone continued..
  
 Spotify clone continued..
 
+<li><b>Day 75: Dec 4, 2022</b>  
+ 
+Spotify clone continued.. trying to resolve issues and write the code
+
 
 
 </body>
