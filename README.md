@@ -491,8 +491,11 @@ Spotify clone continued..
 <li><b>Day 77: Dec 6, 2022</b>  
  
 Spotify clone continued.. 
+
  
+ <li><b>Day 78: Dec 7, 2022</b>  
  
+Spotify clone continued.. Revising forEach method and debugging
  
  
  
