@@ -503,8 +503,9 @@ Spotify clone continued.. Revising forEach method and debugging
 Spotify clone continued.. New functionalities added (Next and Previous buttons work along with individual play buttons)
  
  
- 
- 
+  <li><b>Day 80: Dec 9, 2022</b>  
+  
+ Started Learning about Version Control (Git)
  
 
 </body>
