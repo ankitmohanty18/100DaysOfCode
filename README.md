@@ -505,7 +505,14 @@ Spotify clone continued.. New functionalities added (Next and Previous buttons w
  
   <li><b>Day 80: Dec 9, 2022</b>  
   
- Started Learning about Version Control (Git)
+ Started Learning about Version Control on Coursera
+  
+ 
+ <li><b>Day 81: Dec 10, 2022</b>  
+  
+ Learning about Version Control (Bash Commands)
+ 
+ 
  
 
 </body>
