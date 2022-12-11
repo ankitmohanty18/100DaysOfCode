@@ -512,7 +512,8 @@ Spotify clone continued.. New functionalities added (Next and Previous buttons w
   
  Learning about Version Control (Bash Commands)
  
+ <li><b>Day 82: Dec 11, 2022</b>
  
- 
+Learnt about Git Bash commands and Pipes
 
 </body>
