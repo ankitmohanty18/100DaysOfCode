@@ -516,4 +516,14 @@ Spotify clone continued.. New functionalities added (Next and Previous buttons w
  
 Learnt about Git Bash commands and Pipes
 
+<li><b>Day 83: Dec 12, 2022</b>
+ 
+Created my first pull request and learnt the process of Creation and Merging of PRs in Git Hub
+
+
+
+
+
+
+
 </body>
