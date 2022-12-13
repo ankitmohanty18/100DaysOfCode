@@ -521,6 +521,10 @@ Learnt about Git Bash commands and Pipes
 Created my first pull request and learnt the process of Creation and Merging of PRs in Git Hub
 
 
+<li><b>Day 84: Dec 13, 2022</b>
+ 
+Practicing Git Bash Commands
+
 
 
 
