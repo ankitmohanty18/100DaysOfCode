@@ -526,7 +526,9 @@ Created my first pull request and learnt the process of Creation and Merging of 
 Practicing Git Bash Commands
 
 
+<li><b>Day 85: Dec 14, 2022</b>
 
+Not much coding. Going through git documentation 
 
 
 
