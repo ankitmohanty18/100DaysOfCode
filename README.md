@@ -531,5 +531,8 @@ Practicing Git Bash Commands
 Not much coding. Going through git documentation 
 
 
+<li><b>Day 86: Dec 15, 2022</b>
+ 
+ Not much coding. Going through git documentation 
 
 </body>
