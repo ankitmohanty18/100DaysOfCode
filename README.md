@@ -534,5 +534,11 @@ Not much coding. Going through git documentation
 <li><b>Day 86: Dec 15, 2022</b>
  
  Not much coding. Going through git documentation 
+ 
+ <li><b>Day 87: Dec 16, 2022</b>
+ 
+Working on portfolio website
+ 
+ 
 
 </body>
