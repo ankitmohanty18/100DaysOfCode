@@ -539,6 +539,9 @@ Not much coding. Going through git documentation
  
 Working on portfolio website
  
+  <li><b>Day 88: Dec 17, 2022</b>
+ 
+Making the Spotify Clone responsive
  
 
 </body>
