@@ -543,5 +543,8 @@ Working on portfolio website
  
 Making the Spotify Clone responsive
  
+<li><b>Day 89: Dec 18, 2022</b>
+
+Making the Spotify Clone responsive
 
 </body>
