@@ -552,6 +552,15 @@ Making the Spotify Clone responsive
 
 Making the Spotify Clone responsive
 
+<li><b>Day 91: Dec 20, 2022</b>
+
+Adding new page in Spotify Clone
+
+
+<li><b>Day 92: Dec 21, 2022</b>
+
+Adding new page in Spotify Clone
+
 
 
 </body>
