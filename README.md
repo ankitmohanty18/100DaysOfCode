@@ -559,8 +559,16 @@ Adding new page in Spotify Clone
 
 <li><b>Day 92: Dec 21, 2022</b>
 
-Adding new page in Spotify Clone
+Working on the Spotify Clone
 
+
+<li><b>Day 93: Dec 22, 2022</b>
+
+Working on the Spotify Clone
+
+<li><b>Day 94: Dec 23, 2022</b>
+
+Working on the Spotify Clone
 
 
 </body>
