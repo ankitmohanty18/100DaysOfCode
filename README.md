@@ -571,4 +571,9 @@ Working on the Spotify Clone
 Working on the Spotify Clone
 
 
+<li><b>Day 95: Dec 24, 2022</b>
+
+Working on the Spotify Clone - Resolving Bugs
+
+
 </body>
