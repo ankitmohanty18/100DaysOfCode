@@ -575,5 +575,10 @@ Working on the Spotify Clone
 
 Working on the Spotify Clone - Resolving Bugs
 
+<li><b>Day 96: Dec 25, 2022</b>
+
+Started a new project - E Commerce Website Template using React
+
+
 
 </body>
