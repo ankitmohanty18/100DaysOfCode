@@ -579,6 +579,9 @@ Working on the Spotify Clone - Resolving Bugs
 
 Started a new project - E Commerce Website Template using React
 
+<li><b>Day 97: Dec 26, 2022</b>
+
+Working on E Commerce Website Template 
 
 
 </body>
